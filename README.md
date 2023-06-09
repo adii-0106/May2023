@@ -14,3 +14,4 @@ Do you have good programming skills?
 
 ### [Challenge-2](challenge-2.md)
 * Solution by [Your name] (Link to your solution)
+aditya_patil https://github.com/adii-0106/challenge-1soln-by-aditya-patil/blob/main/aditya_patil_challenge_solution.c
